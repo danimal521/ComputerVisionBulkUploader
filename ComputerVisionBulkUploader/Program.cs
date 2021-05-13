@@ -52,7 +52,7 @@ namespace ComputerVisionBulkUploader
                     if (vTag.Name.ToLower().Trim() == strTag)
                         lstGuid.Add(vTag.Id);
                 }
-
+                Console.WriteLine("");
                 Console.WriteLine("Do the uploads");
                 
                 foreach (string strFile in astrFiles)
