@@ -5270,11 +5270,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dabiscup\\source\\repos\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader.csproj",
+      "projectUniqueName": "C:\\site\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader.csproj",
       "projectName": "ComputerVisionBulkUploader",
-      "projectPath": "C:\\Users\\dabiscup\\source\\repos\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader.csproj",
+      "projectPath": "C:\\site\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader.csproj",
       "packagesPath": "C:\\Users\\dabiscup\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dabiscup\\source\\repos\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader\\obj\\",
+      "outputPath": "C:\\site\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

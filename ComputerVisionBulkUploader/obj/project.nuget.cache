@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gYcGPl0wBlZMV10NFlEh0bA3Tw2cgG0dhjraO94/+Bwd4UPAqnhjza00MwtKdVBAJV0q+CW2apvtLq2tmh+/sQ==",
+  "dgSpecHash": "VwJAo6fY/nXcmgFia5km/Vzx+IUcLJoBr5VGq6OYUs641z5bh2jMt7Fx4Te5vyD4iFPNc+jq1cJNKO/bybj+Dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dabiscup\\source\\repos\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader.csproj",
+  "projectFilePath": "C:\\site\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader\\ComputerVisionBulkUploader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dabiscup\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.customvision.training\\2.1.0-preview\\microsoft.azure.cognitiveservices.vision.customvision.training.2.1.0-preview.nupkg.sha512",
     "C:\\Users\\dabiscup\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
