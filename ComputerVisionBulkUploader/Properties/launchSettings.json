@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ComputerVisionBulkUploader": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\site\\Ivy ivy"
+    }
+  }
+}
